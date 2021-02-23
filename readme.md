@@ -38,7 +38,9 @@ Checkout latest version of chapter3
 6. git log // This will show you the hash info of your current commit and the commit message
 7. git diff // lets you look at a file and compare changes from now and last commit to local repo
 8. git checkout // lets you roll back the current file to last version that was commited.
-
+9. git remote add origin (address from github) // this adds the remote repo location
+10. git branch -M main  // New command for setting the branch to Main
+11. git push // Pushs commit from local repo to remote
 
 
 
@@ -55,3 +57,5 @@ git push -u origin main
 
 ```
 4. Once we sucessfully push we can refresh our repo page and see our files.
+
+
